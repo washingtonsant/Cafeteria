@@ -1,0 +1,28 @@
+@import url('layout.css');
+
+body{
+    /* align-items: center;
+    display: flex; */
+    /* background-color: #997F67; */
+    background-image:url(../img/img-sobre.png);
+    background-attachment: fixed;
+   
+}
+
+.h2-sobre{
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: 'passion one', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+#para-sob{
+
+    
+    text-align:center;
+}
+
+
