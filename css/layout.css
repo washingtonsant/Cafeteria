@@ -173,16 +173,15 @@ h2{
 }
 
 .link-home{
-    margin-top: 30px;
-    margin-bottom: 50px;
-
-    margin-left: 120vh;
-    margin-right: auto;
-    text-decoration: underline;
     font-size: 30px;
     font-family: 'passion one', sans-serif;
     font-weight: 400;
     text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 5px 5px 30px 5px;
 
 }
 
